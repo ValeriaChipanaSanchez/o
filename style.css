@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #E4C59E;
+}
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titulo p{
+  font-size: 90px;
+  color: #322C2B;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ima1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ima1 ul{
+  font-size: 30px;
+  color: #322C2B;
+  text-align: justify;
+  font-family: Century Gothic;
+}
+.ima1 p{
+  font-size: 30px;
+  color: #322C2B;
+  text-align: justify;
+  font-family: Century Gothic;
+}
+.ima1 img{
+  height: 400px;
+  margin: 30px;
+}
+.link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link a{
+  font-size: 40px;
+  color: #322C2B;  
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
